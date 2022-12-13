@@ -2,4 +2,4 @@ a = 5
 b = 2
 
 multiply = a*b
-print(multiply)
+print("The result of multiplication is:"+str(multiply))
